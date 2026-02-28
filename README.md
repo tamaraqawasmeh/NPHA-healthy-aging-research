@@ -1,4 +1,7 @@
-[![National Poll on Healthy Aging (NPHA) logo](https://ihpi.umich.edu/sites/default/files/styles/content_width/public/2025-12/NPHA-logo-horizontal-footer_footer.png?itok=dKxPEess)](https://ihpi.umich.edu/national-poll-healthy-aging)
+<a href="https://ihpi.umich.edu/national-poll-healthy-aging">
+  <img src="https://ihpi.umich.edu/sites/default/files/styles/content_width/public/2025-12/NPHA-logo-horizontal-footer_footer.png?itok=dKxPEess" width="500">
+</a>
+
 
 # Higher Self-Reported Mental Health Predicts Better Perceived Physical Health in Aging Adults
 
@@ -52,4 +55,7 @@ Workflow highlights:
 
 - `AGING_ML_FINAL.ipynb` — primary analysis notebook (data cleaning, modeling, evaluation, visuals)
 
-Recommended (optional) structure if you want your repo to be easy for others to run:
+<br>
+<a href="https://www.iresearchinstitute.com/">
+  <img src="https://cdn.prod.website-files.com/5e9fcdc4f9a5b14f8d400172/5f32f3b9ebc2044d77e857fc_iRI%20fav%20(1).png" width="80">
+</a>
