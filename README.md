@@ -1,3 +1,5 @@
+[![National Poll on Healthy Aging (NPHA) logo](https://ihpi.umich.edu/sites/default/files/styles/content_width/public/2025-12/NPHA-logo-horizontal-footer_footer.png?itok=dKxPEess)](https://ihpi.umich.edu/national-poll-healthy-aging)
+
 # Higher Self-Reported Mental Health Predicts Better Perceived Physical Health in Aging Adults
 
 This repository contains the analysis code (Jupyter notebook) and supporting materials for the project:
